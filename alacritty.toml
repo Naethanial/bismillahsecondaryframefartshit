@@ -1,0 +1,6 @@
+[font]
+normal.family = "monospace"
+normal.style = "bold"
+size = 11
+offset.x = -1
+builtin_box_drawing = true
